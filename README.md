@@ -1,6 +1,6 @@
 # Welcome!
 
- ## I'm Danimar!
+ ## I'm Duany!
 
 
 :computer: I'm Back-End Developer!
